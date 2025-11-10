@@ -110,4 +110,3 @@ Or deploy to any platform that supports Next.js applications.
 - Email: Clinixailtd@gmail.com
 - Phone: +234 816 267 3771
 - LinkedIn: [ClinixAI Enterprise](https://linkedin.com/company/clinixai-enterprise)
-
